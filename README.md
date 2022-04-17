@@ -1,7 +1,7 @@
 <section align="center">
-  <img src="https://github.com/FreudCat/ceramic-arts/blob/main/assets/readme-images/octopus.jpg" alt="" height="300" width="250"/>
+  <img src="https://github.com/FreudCat/ceramic-arts/blob/main/assets/readme-images/red-octopus.jpg" alt="" height="300" width="250"/>
 
-  ### work in progress 🚧
+### work in progress 🚧
 
 </section>
 
