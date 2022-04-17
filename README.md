@@ -12,4 +12,5 @@
 <br />
 
 See [Todo List](https://github.com/FreudCat/ceramic-arts/blob/main/TODO.md)  
-See [User Flow](https://github.com/FreudCat/ceramic-arts/blob/main/USERFLOW.md)
+See [User Flow](https://github.com/FreudCat/ceramic-arts/blob/main/USERFLOW.md)  
+See [Wireframe](https://github.com/FreudCat/ceramic-arts/blob/main/WIREFRAME.md)
