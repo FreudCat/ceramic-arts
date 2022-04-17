@@ -18,20 +18,20 @@
 - View examples of art
 
   1. User sees images in a gallery on the main page
-  2. User can click on image to make it larger and carousel through
+  2. User can click on image to make it larger
   3. In the nav bar, users can click through links leading to themed collections
 
   <br />
 
 - Watch videos or see images of the creation process
 
-  1. Link to instram and youtube accounts
+  1. Link to instagram and youtube accounts
   2. Users navigate to page with series of images showing process
-  3. On same page as 3, users can view video of process, if available
+  3. On same page as 2, users can view video of process, if available
 
    <br />
 
-- See items available for purchase, if available
+- See items for purchase, if available
 
   1. Users click on link in nav bar to Etsy or other commerce site
 

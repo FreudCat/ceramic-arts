@@ -10,7 +10,6 @@
 ## Tech Setup
 
 - [ ] Select domain name
-- [ ] Select language, site generator
-- [ ] Select framework
+- [ ] Select CMS -> _specs: content-only site with fast loading_
 - [ ] Select preprocessor
 - [ ] Add ESLint and Prettier
