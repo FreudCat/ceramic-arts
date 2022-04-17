@@ -21,6 +21,11 @@
   2. User can click on image to make it larger
   3. In the nav bar, users can click through links leading to themed collections (+/-)
 
+<section>
+  <a href="https://github.com/FreudCat/ceramic-arts/blob/main/assets/userflow-images/view-examples.PNG">
+  <img src="assets/view-examples.PNG" alt="Userflow to for how to view examples" height="250" width="350"></a>
+</section>
+
   <br />
 
 - Watch videos or see images of the creation process
