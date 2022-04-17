@@ -17,7 +17,7 @@
 
 - View examples of art
 
-  1. User sees images in a gallery on the main page  
+  1\. User sees images in a gallery on the main page  
   2. User can click on image to make it larger  
   3. In the nav bar, users can click through links leading to themed collections (+/-)  
 
@@ -30,9 +30,9 @@
 
 - Watch videos or see images of the creation process
 
-  1. Link to instagram and youtube accounts
-  2. Users navigate to page with series of images showing process
-  3. On same page as 2, users can view video of process, if available
+  1\. Link to instagram and youtube accounts  
+  2. Users navigate to page with series of images showing process  
+  3. On same page as 2, users can view video of process, if available  
 
 <br />
   
@@ -45,9 +45,9 @@
 
 - Purchase items
 
-  1. Users click on "Shop" in nav bar
-  2. Users see items for sale
-  3. Users click to Etsy get price and purchase
+  1\. Users click on "Shop" in nav bar  
+  2. Users see items for sale  
+  3. Users click to Etsy get price and purchase  
 
 <br />
   
@@ -60,14 +60,14 @@
 
 - Learn more about the artist
 
-  1. Users find out more at an About page
-  2. Users navigate to current and upcoming exhibitions page
+  1\. Users find out more at an About page  
+  2. Users navigate to current and upcoming exhibitions page  
 
 <br />
 
  <section align="center">
   <a href="https://github.com/FreudCat/ceramic-arts/blob/main/assets/userflow-images/about.PNG">
-  <img src="https://github.com/FreudCat/ceramic-arts/blob/main/assets/userflow-images/about.PNG" alt="Userflow to for how to learn more about the artist" height="350" width="550"></a>
+  <img src="https://github.com/FreudCat/ceramic-arts/blob/main/assets/userflow-images/about.PNG" alt="Userflow to for how to learn more about the artist" height="350" width="450"></a>
 </section>
 
 <br />
