@@ -5,7 +5,8 @@
 - [x] Discuss goals of site holder
 - [x] Create user flow
 - [x] Research examples
-- [ ] Create wireframe
+- [x] Create wireframe - desktop
+- [ ] Create wireframe - mobile
 
 ## Tech Setup
 
