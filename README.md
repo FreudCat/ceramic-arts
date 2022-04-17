@@ -11,5 +11,5 @@
 
 <br />
 
-See [Todo List](https://www.example.com)  
-See [User Flow](https://www.example.com)
+See [Todo List](https://github.com/FreudCat/ceramic-arts/blob/main/TODO.md)  
+See [User Flow](https://github.com/FreudCat/ceramic-arts/blob/main/USERFLOW.md)
