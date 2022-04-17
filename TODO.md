@@ -10,6 +10,7 @@
 ## Tech Setup
 
 - [ ] Select domain name
-- [ ] Select CMS -> _specs: content-only site with fast loading_
+- [x] Select CMS -> _specs: content-only site with fast loading_
 - [ ] Select preprocessor
 - [ ] Add ESLint and Prettier
+- [ ] Deploy on netlify to track process

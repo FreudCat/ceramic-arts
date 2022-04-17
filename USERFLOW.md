@@ -19,7 +19,7 @@
 
   1. User sees images in a gallery on the main page
   2. User can click on image to make it larger
-  3. In the nav bar, users can click through links leading to themed collections
+  3. In the nav bar, users can click through links leading to themed collections (+/-)
 
   <br />
 
@@ -31,9 +31,11 @@
 
    <br />
 
-- See items for purchase, if available
+- Purchase items
 
-  1. Users click on link in nav bar to Etsy or other commerce site
+  1. Users click on "Shop" in nav bar
+  2. Users see items for sale
+  3. Users click to Etsy get price and purchase
 
   <br />
 
