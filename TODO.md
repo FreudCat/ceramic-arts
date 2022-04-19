@@ -6,7 +6,8 @@
 - [x] Create user flow
 - [x] Research examples
 - [x] Create wireframe - desktop
-- [ ] Create wireframe - mobile
+- [x] Create wireframe - mobile
+- [ ] Review wireframes with artist
 
 ## Tech Setup
 
@@ -14,4 +15,4 @@
 - [x] Select CMS -> _specs: content-only site with fast loading_
 - [ ] Select preprocessor
 - [ ] Add ESLint and Prettier
-- [ ] Deploy on netlify to track process
+- [x] Deploy on netlify to track process
