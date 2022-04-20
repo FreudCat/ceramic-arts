@@ -1,0 +1,36 @@
+{
+  "name": "ceramic-arts",
+  "version": "1.0.0",
+  "description": "<section align=\"center\">\r   <img src=\"https://github.com/FreudCat/ceramic-arts/blob/main/assets/readme-images/transparent-octo.png\" alt=\"\" height=\"451\" width=\"388\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w src/scss/custom.scss -o src --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreudCat/ceramic-arts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreudCat/ceramic-arts/issues"
+  },
+  "homepage": "https://github.com/FreudCat/ceramic-arts#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx": "^0.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.4.0",
+    "gatsby": "^4.12.1",
+    "gatsby-cli": "^4.12.1",
+    "prettier": "^2.6.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
