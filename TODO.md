@@ -18,5 +18,8 @@
 - [x] Deploy on netlify to track process
 - [ ] Complete graphql tutorial
 - [ ] Securities
+
+## Content
+
 - [ ] Ask for image for main page
 - [ ] Create main page
