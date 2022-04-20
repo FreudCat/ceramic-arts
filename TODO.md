@@ -23,3 +23,4 @@
 
 - [ ] Ask for image for main page
 - [ ] Create main page
+- [ ] Optimization of images
