@@ -17,3 +17,6 @@
 - [x] Add ESLint and Prettier
 - [x] Deploy on netlify to track process
 - [ ] Complete graphql tutorial
+- [ ] Securities
+- [ ] Ask for image for main page
+- [ ] Create main page
