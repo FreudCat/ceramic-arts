@@ -8,6 +8,7 @@
 - [x] Create wireframe - desktop
 - [x] Create wireframe - mobile
 - [x] Review wireframes with artist
+- [x] Update wireframe
 
 ## Tech Setup
 
@@ -23,4 +24,4 @@
 
 - [ ] Ask for image for main page
 - [ ] Create main page
-- [ ] Optimization of images
+- [x] Optimization of images
