@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkceramic_arts=self.webpackChunkceramic_arts||[]).push([[678],{558:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var r=n(294);function c(){return r.createElement("h1",null,"Hello Gatsby!")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-927fb9c7d74a2d83f3f1.js.map
