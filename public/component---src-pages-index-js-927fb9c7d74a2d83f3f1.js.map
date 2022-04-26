@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-927fb9c7d74a2d83f3f1.js","mappings":"0KACe,SAASA,IACvB,OAAO","sources":["webpack://ceramic-arts/./src/pages/index.js"],"sourcesContent":["import React from \"react\";\r\nexport default function Home() {\r\n\treturn <h1>Hello Gatsby!</h1>;\r\n}\r\n"],"names":["Home"],"sourceRoot":""}
