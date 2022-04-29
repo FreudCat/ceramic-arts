@@ -1,14 +1,16 @@
 import React from "react";
+import Hero from "../components/Hero";
+import Navbar from "../components/navbar";
 import { StaticImage } from "gatsby-plugin-image";
+import "../custom.css";
 
-export default function Home() {
+const App = () => {
 	return (
-		<StaticImage
-			src="../images/transparent-koi.png"
-			alt="10 ceramic koi"
-			placeholder="blurred"
-			layout="fixed"
-			width={200}
-		/>
+		<div className="container">
+			<Navbar />
+			<Hero />
+		</div>
 	);
-}
+};
+
+export default App;
